@@ -1,0 +1,42 @@
+    {
+        "cc": 654321,
+        "firtsName": "denis",
+        "lastName": "rodriguez",
+        "location": "bogota",
+        "id": 1,
+        "password": "lalo123",
+        "phone": "3112345678",
+        "email": "drc@unal.edu.co"
+    },
+    {
+        "cc": 123456,
+        "firtsName": "daniel",
+        "lastName": "pinzon",
+        "location": "bogota",
+        "id": 5,
+        "password": "dap123",
+        "phone": "3014016265",
+        "email": "dap@unal.edu.co"
+    },
+    {
+        "cc": 123654,
+        "firtsName": "laura",
+        "lastName": "salazar",
+        "location": "bogota",
+        "id": 3,
+        "password": "pepe123",
+        "phone": "3145673432",
+        "email": "las@unal.edu.co"
+    },
+    {
+        "cc": 234567,
+        "firtsName": "rosa",
+        "lastName": "salamanca",
+        "location": "bogota",
+        "id": 4,
+        "password": "cro123",
+        "phone": "3105926768",
+        "email": "rmc@unal.edu.co"
+    }
+
+----------------------------------------------------------------------
